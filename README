@@ -1,1 +1,7 @@
-Test readme file.
+Инсталяция:
+  tar -zxvf agreementTree13-May.tar.gz
+  cd agreementTree13-May
+  make
+
+Вызов примерного теста:
+  make test
