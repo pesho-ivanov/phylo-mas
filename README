@@ -1,7 +1,10 @@
-Инсталяция:
-  tar -zxvf agreementTree13-May.tar.gz
-  cd agreementTree13-May
+Installation:
+  tar -zxvf phylo-mas.tar.gz
+  cd phylo-mas
   make
 
-Вызов примерного теста:
+Run sample:
   make test
+
+Run
+  ./mas.out <FirstInputTreeFile> <SecondInputTreeFile> <OutputAgreementTreeFile>
